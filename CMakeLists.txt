@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.10)
 
-// !!!!!replace xxx_plugin to your project project name!!!!!
+# !!!!!replace xxx_plugin to your project project name!!!!!
 project(xxx_plugin_library VERSION 0.0.1)
 set(PLUGIN_NAME "xxx_plugin")
 
